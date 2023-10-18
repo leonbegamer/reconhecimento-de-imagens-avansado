@@ -1,0 +1,55 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+ .headingDiv
+ {
+    float: none;
+    background: #fff;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 6px #000;
+
+ }
+
+ .headingDiv
+ {
+  font-size: 18px;
+ }
+
+ .resultToTAg
+ {
+    box-shadow: 5px 5px 6px #009;
+ }
+
+ .resultToTag span
+{
+    white-space: pre-line;
+}
+
+.copyRightFooter
+{
+    position: fixed;
+    bottom: 0;
+    color: #000;
+    background-color:#fff;
+    width:100%;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 5px solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 6px #000;
+    margin-top: 350px;
+}
